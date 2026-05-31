@@ -9,11 +9,11 @@
  
 //* adding elements
 
-// // console.log(numbers); 
-//  const ele = numbers[0];
+// console.log(numbers); 
+ const ele = numbers[0];
+ console.log(ele);
+//  const ele = numbers[3];
 //  console.log(ele);
-// //  const ele = numbers[3];
-// //  console.log(ele);
 
 
 // adding new elements 
@@ -31,11 +31,11 @@
 
 //*remove elements 
 //! form end 
-//arr_name.pop()
-// console.log(numbers)
+arr_name.pop()
+console.log(numbers)
 
-/* form start
-shift -> return removed element
+/* form start 
+shift -> return removed element */
 array.shift()
 console.log(numbers);
 numbers.shift();
@@ -70,7 +70,7 @@ console.log(numbers.join(","));
 console.log(numbers.join("-"));
 //console.log(numbers.);
 
-  //function tomorrow
+  
 
 
 
