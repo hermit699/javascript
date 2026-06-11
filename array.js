@@ -9,19 +9,20 @@
  
 //* adding elements
 
-// console.log(numbers); 
+console.log(numbers); 
  const ele = numbers[0];
  console.log(ele);
-//  const ele = numbers[3];
-//  console.log(ele);
+ const ele = numbers[3];
+ console.log(ele);
 
 
 // adding new elements 
 //! FORM END 
 //?Push
+
 //arr_name.push(item1, item2,......) returns length
-//const res = numbers.push (12,45,3,67)
-// console.log(res);
+const res = numbers.push (12,45,3,67)
+console.log(res);
 
 
 //! form start 
@@ -68,7 +69,9 @@ console.log(numbers);
 //join
 console.log(numbers.join(","));
 console.log(numbers.join("-"));
-//console.log(numbers.);
+console.log(numbers.);
+
+
 
   
 
