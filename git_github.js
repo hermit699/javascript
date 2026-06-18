@@ -17,7 +17,8 @@
 
  //? git status
  //* git add <file_path> 
- //* git commit -m <"commit_messge"
+ //* git commit -m <"commit_message"> 
+
  
  
 
@@ -32,8 +33,18 @@
 
  //branching 
 
- // git branch -> List all local branches
- // git branch <branch_name>   -> create new branch 
+ //* git branch -> List all local branches
+ //* git branch <branch_name>   -> create new branch 
+ //*  git switch <branch_name>  switch between branches 
+ //*  git switch -c <branch_name> create and switch to new branch 
+
+ //? merge 
+
+//*  git merge <branch_name>
+
+
+
+
 
  
 
